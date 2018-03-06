@@ -1,2 +1,9 @@
 Something
 Test 2
+
+faccio modifica ma poi ci ripenso e voglio aprire altro branch senza perdere questa modifica ma non voglio nemmeno committarla nel master......
+
+
+
+che si fa ?
+
